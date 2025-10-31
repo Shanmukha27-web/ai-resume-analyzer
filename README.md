@@ -58,6 +58,8 @@ It provides a seamless experience with client-side authentication, resume storag
 ---
 
 ## 🤸 Quick Start
+## 🚀 Live Demo
+[View the App](https://resume-analyzer.vercel.app) i want you to change readme as its showing all the images in it delete i make it simple
 
 ### Prerequisites
 - [Git](https://git-scm.com/)
