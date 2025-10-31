@@ -1,13 +1,10 @@
 <div align="center">
   <br />
-  <img src="public/readme/hero.webp" alt="Project Banner" />
+  
   <br />
 
   <div>
-    <img alt="React" src="https://img.shields.io/badge/React-4c84f3?style=for-the-badge&logo=react&logoColor=white" />
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img alt="Puter.js" src="https://img.shields.io/badge/Puter.js-181758?style=for-the-badge&logoColor=white" />
+  
   </div>
 
   <h2 align="center">AI Resume Analyzer</h2>
